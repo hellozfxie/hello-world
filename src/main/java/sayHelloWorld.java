@@ -5,9 +5,10 @@ package main.java;
  */
 public class sayHelloWorld {
     public static void main(String[] args) {
-
-        System.out.println("hello worlddddddss");
-        System.out.println("hello world");
-        System.out.println("hello world");
+        for(int i=0 ;i<10;i++) {
+            System.out.println("hello worlddddddss");
+            System.out.println("hello world");
+            System.out.println("hello world");
+        }
     }
 }
